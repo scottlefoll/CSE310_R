@@ -32,9 +32,9 @@ learning algorithms and visualization techniques.
     test the model predictions using the model
     run a variety of evaluation metrics to check the performance of the model
 
-[Cloud Database Programming Demo Video](https://youtu.be/9vuWtdHKhhA)
+[R Programming for Data Analysis Video](https://youtu.be/bZvF0f188Zc)
 
-[Cloud Database Programming Git Hub repo](https://github.com/scottlefoll/CSE310_CloudDB)
+[R Programming for Data Analysis Programming Git Hub repo](https://github.com/scottlefoll/CSE310_R)
 
 # Development Environment
 
